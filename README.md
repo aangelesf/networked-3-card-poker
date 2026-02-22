@@ -1,5 +1,8 @@
 # Networked 3 Card Poker (JavaFX)
 
+## Screenshot
+![3 Card Poker UI](game-ui.png)
+
 This project is a networked implementation of Three Card Poker built
 using JavaFX and Java sockets. The application follows a client-server
 architecture where the server manages all game logic, including
